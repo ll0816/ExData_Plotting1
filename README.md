@@ -2,7 +2,7 @@
 Author: ***Liu Li***   
 Github: <https://github.com/ll0816/ExData_Plotting1.git>
 
-
+`Please clone this repo to your local machine to see the files or see the raw files on Github directly. This file performed badly on Github due to nested unordered lists.`
 ## Background
 
 This code is for the project 1 of [Exploratory Data Analysis](https://class.coursera.org/exdata-002/).  
