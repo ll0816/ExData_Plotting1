@@ -24,9 +24,9 @@ Dataset: [Electric power consumption](https://d396qusza40orc.cloudfront.net/exda
 ### Three ways of reproducing project 
 
 1. ```
-cd "Path to this Directory"
-unzip household_power_consumption.zip
-```	
+	cd "Path to this Directory"
+	unzip household_power_consumption.zip
+	```	
 	**Keep your Rstudio open**, Set `wd` of Rstudio correctly and Run Code in Terminal  
 
 	```
